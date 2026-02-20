@@ -7,7 +7,7 @@
 ### About
 
 Computer science student focused on **low-level systems** and **architecture**.
-I like understanding how things work at the metal — not just using abstractions.
+I like understanding how things work at the metal — and using abstractions.
 
 ---
 
