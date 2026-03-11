@@ -24,7 +24,6 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,ocaml,cpp,rust,bash,lua,git,linux,vim,docker&theme=dark)](https://skillicons.dev)
 
-![x86 ASM](https://img.shields.io/badge/x86_ASM-gray?style=flat-square&logo=assemblyscript&logoColor=white)
 
 </div>
 
