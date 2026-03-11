@@ -24,6 +24,7 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,ocaml,cpp,rust,bash,lua,git,linux,vim,docker&theme=dark)](https://skillicons.dev)
 
+![x86 ASM](https://img.shields.io/badge/x86_ASM-gray?style=flat-square&logo=assemblyscript&logoColor=white)
 
 </div>
 
@@ -34,6 +35,34 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 | **Systems** | OS internals / Proxmox / x86 arch / Logisim / ESP32 / LuaRTOS |
 | **Tools** | GCC / GDB / Make / Git / Wireshark / Cisco PT / mitmproxy / Flask |
 | **Math** | Number theory / Algorithmic complexity / Formal logic / Mathematical cryptography |
+
+---
+
+## Domains of Interest
+
+<div align="center">
+
+![Cryptography](https://img.shields.io/badge/Cryptography-E0182D?style=for-the-badge&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-c0392b?style=for-the-badge&logoColor=white)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-922b21?style=for-the-badge&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-E0182D?style=for-the-badge&logoColor=white)
+![OS Internals](https://img.shields.io/badge/OS_Internals-c0392b?style=for-the-badge&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-922b21?style=for-the-badge&logoColor=white)
+![Formal Methods](https://img.shields.io/badge/Formal_Methods-E0182D?style=for-the-badge&logoColor=white)
+![x86 Architecture](https://img.shields.io/badge/x86_Architecture-c0392b?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## Currently Learning
+
+```
+Rust         ||||||||░░░░░░░░░░░░   in progress
+Kernel dev   |||||░░░░░░░░░░░░░░░   early stage
+Re / pwn     ||||||||||||░░░░░░░░   ongoing (CTF)
+Proto crypto |||||||||||░░░░░░░░░   ongoing
+```
 
 ---
 
@@ -48,21 +77,15 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=dns-114&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=E0182D&icon_color=E0182D&text_color=ffffff&count_private=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dns-114&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=E0182D&text_color=ffffff&langs_count=6&include_all_commits=true" />
-
-</div>
+## Activity
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dns-114&theme=dark&hide_border=true&background=0d0d0d&ring=E0182D&fire=E0182D&currStreakLabel=E0182D)](https://git.io/streak-stats)
 
 </div>
+
+---
 
 <div align="center">
 
