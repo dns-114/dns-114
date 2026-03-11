@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:E0182D&height=200&section=header&text=DNS&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%26%20Systems%20%E2%80%94%20Low-level%20by%20choice&descSize=18&descAlignY=75&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:E0182D&height=200&section=header&text=DNS&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Cybersecurity%20%26%20Systems%20-%20Low-level%20by%20choice&descSize=18&descAlignY=75&descAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=E0182D&center=true&vCenter=true&width=520&lines=Cryptography+%26+Protocol+Analysis;Binary+Exploitation+%26+Reverse+Engineering;Systems+Programming+%26+OS+Internals;Network+Security+%26+Embedded+Systems)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️ About
+## ⚙ About
 
 Cybersecurity & Software Engineering student at an **école d'ingénieurs**, after a **classe préparatoire aux grandes écoles (MPI)** — advanced mathematics, theoretical CS, computability, complexity, formal logic.
 
@@ -27,7 +27,7 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 </div>
 
 | Domain | Stack |
-|:---|:---|
+|---|----|
 | **Languages** | C · Python · C++ · x86 ASM · OCaml · Shell · Lua · *(learning Rust)* |
 | **Cybersecurity** | Cryptography · Protocol analysis · Network security · MITM · EBIOS RM |
 | **Systems** | OS internals · Proxmox · x86 arch · Logisim · ESP32 / LuaRTOS |
@@ -36,19 +36,19 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 ---
 
-## 📡 Organizations
+## 🗂 Organizations
 
 | | Organization | Focus |
 |:---:|:---|:---|
-| ⚡ | [**dns-114-systems**](https://github.com/dns-114-systems) | CPU architecture · OS · x86 ASM · compilers |
-| 🔐 | [**dns-114-ctf**](https://github.com/dns-114-ctf) | CTF · binary exploitation · cryptography · reverse |
-| 📡 | [**dns-114-network**](https://github.com/dns-114-network) | Network security · protocols · IoT · embedded |
+| ⚙ | [**dns-114-systems**](https://github.com/dns-114-systems) | CPU architecture · OS · x86 ASM · compilers |
+| 🔒 | [**dns-114-ctf**](https://github.com/dns-114-ctf) | CTF · binary exploitation · cryptography · reverse |
+| 🌐 | [**dns-114-network**](https://github.com/dns-114-network) | Network security · protocols · IoT · embedded |
 | 📚 | [**dns-114-research**](https://github.com/dns-114-research) | Research · publications · TIPE |
-| 🛠️ | [**dns-114-projects**](https://github.com/dns-114-projects) | Academic projects · algorithms · systems · security |
+| 🔧 | [**dns-114-projects**](https://github.com/dns-114-projects) | Academic projects · algorithms · systems · security |
 
 ---
 
-## 📋 Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -64,6 +64,8 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 </div>
 
----
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0182D,100:0d0d0d&height=100&section=footer" />
+
+</div>
