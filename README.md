@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E0182D&height=180&section=header&text=DNS&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Cybersecurity%20%26%20Systems%20Programming&descSize=18&descAlignY=68&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E0182D&height=150&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=E0182D&center=true&vCenter=true&width=520&lines=Cryptography+%26+Protocol+Analysis;Binary+Exploitation+%26+Reverse+Engineering;Systems+Programming+%26+OS+Internals;Network+Security+%26+Embedded+Systems)](https://git.io/typing-svg)
 
