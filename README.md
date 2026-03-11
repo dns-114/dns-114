@@ -55,13 +55,18 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 ---
 
-## Skill Radar
+## Approach
 
-<div align="center">
+```
+$ whoami
+  low-level thinker  |  security-first mindset  |  math-driven
 
-<img src="https://raw.githubusercontent.com/dns-114/dns-114/main/radar.svg" width="420" alt="Skill Radar" />
+$ philosophy
+  understand before using  |  break to learn  |  build from scratch
 
-</div>
+$ env
+  linux  |  terminal  |  vim  |  gcc  |  gdb
+```
 
 ---
 
@@ -76,11 +81,11 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 ---
 
-## Activity
+## Skill Radar
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dns-114&theme=dark&hide_border=true&background=0d0d0d&ring=E0182D&fire=E0182D&currStreakLabel=E0182D)](https://git.io/streak-stats)
+<img src="https://raw.githubusercontent.com/dns-114/dns-114/main/radar.svg" width="420" alt="Skill Radar" />
 
 </div>
 
