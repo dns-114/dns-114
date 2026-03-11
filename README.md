@@ -38,13 +38,12 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 ## Organizations
 
-| | Organization | Focus |
-|:---:|:---|:---|
-| [**dns-114-systems**](https://github.com/dns-114-systems) | | CPU architecture / OS / x86 ASM / compilers |
-| [**dns-114-ctf**](https://github.com/dns-114-ctf) | | CTF / binary exploitation / cryptography / reverse |
-| [**dns-114-network**](https://github.com/dns-114-network) | | Network security / protocols / IoT / embedded |
-| [**dns-114-research**](https://github.com/dns-114-research) | | Research / publications / TIPE |
-| [**dns-114-projects**](https://github.com/dns-114-projects) | | Academic projects / algorithms / systems / security |
+| Organization | Focus |
+|:---|:---|
+| [**dns-114-ctf**](https://github.com/dns-114-ctf) | CTF / binary exploitation / cryptography / reverse |
+| [**dns-114-projects**](https://github.com/dns-114-projects) | Academic projects / algorithms / systems / security |
+| [**dns-114-academic**](https://github.com/dns-114-academic) | Academic projects / networking / systems / embedded |
+| [**dns-114-research**](https://github.com/dns-114-research) | Research / publications / TIPE |
 
 ---
 
