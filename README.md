@@ -22,13 +22,15 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,cpp,rust,bash,lua,git,linux,vim,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,ocaml,cpp,rust,bash,lua,git,linux,vim,docker&theme=dark)](https://skillicons.dev)
+
+![x86 ASM](https://img.shields.io/badge/x86_ASM-gray?style=flat-square&logo=assemblyscript&logoColor=white)
 
 </div>
 
 | Domain | Stack |
 |---|----|
-| **Languages** | C / Python / C++ / x86 ASM / OCaml / Shell / Lua / *(learning Rust)* |
+| **Languages** | C / Python / OCaml / C++ / x86 ASM / Shell / Lua / *(learning Rust)* |
 | **Cybersecurity** | Cryptography / Protocol analysis / Network security / MITM / EBIOS RM |
 | **Systems** | OS internals / Proxmox / x86 arch / Logisim / ESP32 / LuaRTOS |
 | **Tools** | GCC / GDB / Make / Git / Wireshark / Cisco PT / mitmproxy / Flask |
