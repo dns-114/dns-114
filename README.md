@@ -1,44 +1,47 @@
 # DNS
 
-> Systems programmer. Low-level by choice.
+> Cybersecurity & Software Engineering student. Low-level by choice.
 
 ---
 
-### About
+## About
 
-Computer science student focused on **low-level systems** and **architecture**.
-I like understanding how things work at the metal — and using abstractions.
+Engineering student at **ENSIBS** (Lorient, France), in the **Cybersecurity & Software Engineering** track after a **MPI prépa** (Mathematics, Physics, Computer Science).
 
----
-
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **8-bit CPU** | Custom processor — ISA design, datapath, controller | Logic / HDL |
-| **emOS** | Minimal OS — scheduler, interrupts, memory management | C / ASM |
-| **Assembler** | Full assembler for a custom ISA — parser, codegen, binary output | C |
-| **Genetic Maze** | Maze solver using genetic algorithms — fitness, crossover, mutation | C |
-| **RNG** | Random number generator with statistical analysis | C / ASM |
+I'm drawn to the intersection of **systems programming** and **security** — understanding how things break at the lowest level, and how to build them right.
 
 ---
 
-### Stack
+## Skills
 
 ```
-Languages  : C  |  x86 Assembly  |  Python
-Tools      : GCC  |  MASM  |  GDB  |  Make  |  Git
-Interests  : Compilers  |  OS  |  Embedded  |  Computer Architecture
+Languages  : C · Python · x86 Assembly
+Security   : Cryptography · Network Security · Low-level Exploitation
+Tools      : GCC · GDB · Make · Git · Wireshark
+Interests  : OS internals · Compilers · Embedded systems · Reverse engineering
 ```
 
 ---
 
-### Currently
+## Currently
 
-- Building low-level projects from scratch
-- Exploring compiler design and static analysis
-- Learning Rust
+- Building low-level systems projects from scratch
+- Exploring cryptography and network security
+- Looking for an apprenticeship / internship in cybersecurity
 
 ---
 
-*Work in progress — more projects coming.*
+## Organizations
+
+My projects are organized by domain:
+
+| Organization | Focus |
+|---|---|
+| **Systems & Architecture** | CPU design, OS, compilers, ASM |
+| **Cybersecurity** | Crypto, network tools, CTF, exploitation |
+| **Software Engineering** | Algorithms, tooling, software projects |
+| **Academic Projects** | School coursework and collaborative work |
+
+---
+
+*Work in progress — more coming.*
