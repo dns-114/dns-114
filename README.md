@@ -112,3 +112,12 @@ $ env
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0182D,100:0d0d0d&height=100&section=footer" />
 
 </div>
+
+---
+
+## 🗾 Tokyo Map
+
+<div align="center">
+  <img src="japan.svg" width="400" alt="Tokyo Map - Japanese Ink Style"/>
+  <p><em>Minimalist map poster of Tokyo in Japanese ink theme</em></p>
+</div>
