@@ -70,21 +70,45 @@ $ env
 
 ## Organizations
 
-| Organization | Focus |
-|:---|:---|
-| [**dns-114-ctf**](https://github.com/dns-114-ctf) | CTF / binary exploitation / cryptography / reverse |
-| [**dns-114-projects**](https://github.com/dns-114-projects) | Academic projects / algorithms / systems / security |
-| [**dns-114-academic**](https://github.com/dns-114-academic) | Academic projects / networking / systems / embedded |
-| [**dns-114-research**](https://github.com/dns-114-research) | Research / publications / TIPE |
+<table>
+  <tr>
+    <td align="center" width="350">
+      <a href="https://github.com/dns-114-ctf">
+        <img src="https://img.shields.io/badge/dns--114--ctf-E0182D?style=for-the-badge&logoColor=white" />
+        <br/><sub><b>CTF / binary exploitation / cryptography / reverse</b></sub>
+      </a>
+    </td>
+    <td align="center" width="350">
+      <a href="https://github.com/dns-114-projects">
+        <img src="https://img.shields.io/badge/dns--114--projects-c0392b?style=for-the-badge&logoColor=white" />
+        <br/><sub><b>Academic projects / algorithms / systems / security</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="350">
+      <a href="https://github.com/dns-114-academic">
+        <img src="https://img.shields.io/badge/dns--114--academic-922b21?style=for-the-badge&logoColor=white" />
+        <br/><sub><b>Academic projects / networking / systems / embedded</b></sub>
+      </a>
+    </td>
+    <td align="center" width="350">
+      <a href="https://github.com/dns-114-research">
+        <img src="https://img.shields.io/badge/dns--114--research-E0182D?style=for-the-badge&logoColor=white" />
+        <br/><sub><b>Research / publications / TIPE</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
 
 ## 🗾 Tokyo Map
 
-<img src="./assets/tokyo_all.gif" width="100%" />
-
-
+<div align="center">
+<img src="./assets/tokyo_all.gif" width="520" />
+</div>
 
 ---
 
