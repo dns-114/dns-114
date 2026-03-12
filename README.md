@@ -63,7 +63,7 @@ $ philosophy
   understand before using  |  break to learn  |  build from scratch
 
 $ env
-  linux  |  terminal  |  vim  |  gcc  |  gdb
+  macOS  |  linux  |  terminal  |  vs code  |  gcc  |  C toolchain
 ```
 
 ---
