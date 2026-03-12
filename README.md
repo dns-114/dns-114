@@ -85,9 +85,9 @@ $ env
 ## 🗾 Tokyo Map
 
 <p align="center">
-  <img src="assets/tokyo4.png" width="32%"/>
-  <img src="assets/tokyo6.png" width="32%"/>
-  <img src="assets/tokyo3.png" width="32%"/>
+  <img src="assets/tokyo.png" width="32%"/>
+  <img src="assets/paris.png" width="32%"/>
+  <img src="assets/istanbul.png" width="32%"/>
 </p>
 
 ---
