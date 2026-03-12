@@ -95,7 +95,7 @@ $ env
 
 ## Toolbox
 
-> Repos I follow and use in my workflow.
+> Repos I follow.
 
 | Repository | Description | Stars |
 |---|---|---|
