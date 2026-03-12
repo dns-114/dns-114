@@ -84,9 +84,11 @@ $ env
 
 ## 🗾 Tokyo Map
 
-<div align="center">
-<img src="./assets/tokyo_all.gif" width="520" />
-</div>
+<p align="center">
+  <img src="assets/tokyo1.png" width="32%"/>
+  <img src="assets/tokyo2.png" width="32%"/>
+  <img src="assets/tokyo3.png" width="32%"/>
+</p>
 
 ---
 
