@@ -95,3 +95,9 @@ $ env
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0182D,100:0d0d0d&height=100&section=footer" />
 
 </div>
+
+
+---
+
+<!-- STARS:START -->
+<!-- STARS:END -->
