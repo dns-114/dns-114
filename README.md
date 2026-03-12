@@ -79,15 +79,6 @@ $ env
 
 ---
 
-## Japan
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dns-114/dns-114/main/japan.svg" width="420" alt="Japan map" />
-
-</div>
-
----
 
 <!-- STARS:START -->
 
@@ -117,7 +108,3 @@ $ env
 
 ## 🗾 Tokyo Map
 
-<div align="center">
-  <img src="japan.svg" width="400" alt="Tokyo Map - Japanese Ink Style"/>
-  <p><em>Minimalist map poster of Tokyo in Japanese ink theme</em></p>
-</div>
