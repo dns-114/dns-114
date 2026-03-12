@@ -82,7 +82,7 @@ $ env
 
 ---
 
-## 🗾 Tokyo Map
+## 🗾 Maps
 
 <p align="center">
   <img src="assets/tokyo.png" width="32%"/>
