@@ -71,38 +71,13 @@ $ env
 ## Organizations
 
 <div align="center">
-<table width="100%"><tr>
-<td align="center" width="50%">
-<a href="https://github.com/dns-114-ctf">
-<img src="https://img.shields.io/badge/dns--114--ctf-E0182D?style=for-the-badge&logoColor=white" height="32" />
-</a>
-<br/><br/>
-<sup>CTF · binary exploitation · cryptography · reverse</sup>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/dns-114-projects">
-<img src="https://img.shields.io/badge/dns--114--projects-c0392b?style=for-the-badge&logoColor=white" height="32" />
-</a>
-<br/><br/>
-<sup>algorithms · systems · security</sup>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/dns-114-academic">
-<img src="https://img.shields.io/badge/dns--114--academic-922b21?style=for-the-badge&logoColor=white" height="32" />
-</a>
-<br/><br/>
-<sup>networking · systems · embedded</sup>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/dns-114-research">
-<img src="https://img.shields.io/badge/dns--114--research-E0182D?style=for-the-badge&logoColor=white" height="32" />
-</a>
-<br/><br/>
-<sup>research · publications · TIPE</sup>
-</td>
-</tr></table>
+
+| 🔓 [dns-114-ctf](https://github.com/dns-114-ctf) | ⚙️ [dns-114-projects](https://github.com/dns-114-projects) |
+|:---:|:---:|
+| CTF · exploitation · cryptography | algorithms · systems · security |
+| 📡 [dns-114-academic](https://github.com/dns-114-academic) | 🔬 [dns-114-research](https://github.com/dns-114-research) |
+| networking · embedded · systems | research · publications · TIPE |
+
 </div>
 
 ---
