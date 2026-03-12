@@ -24,7 +24,6 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,ocaml,cpp,rust,bash,lua,git,linux,vim,docker&theme=dark)](https://skillicons.dev)
 
-
 </div>
 
 | Domain | Stack |
@@ -80,22 +79,15 @@ $ env
 
 ---
 
-## Skill Radar
+## Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dns-114/dns-114/main/radar.svg" width="420" alt="Skill Radar" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dns-114&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E0182D&text_color=ffffff&border_color=E0182D&hide_border=false&langs_count=8" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dns-114&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E0182D&text_color=ffffff&icon_color=E0182D&border_color=E0182D&hide_border=false&count_private=true&hide=stars" />
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0182D,100:0d0d0d&height=100&section=footer" />
-
-</div>
-
 
 ---
 
@@ -114,3 +106,11 @@ $ env
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 65,618 |
 
 <!-- STARS:END -->
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0182D,100:0d0d0d&height=100&section=footer" />
+
+</div>
