@@ -116,3 +116,132 @@ $ env
 
 ![Tokyo Maps](./assets/tokyo_all.gif)
 
+
+import { useState } from "react";
+
+const orgs = [
+  { name: "dns-114-ctf", focus: "CTF / binary exploitation / cryptography / reverse", emoji: "🔓" },
+  { name: "dns-114-projects", focus: "Academic projects / algorithms / systems / security", emoji: "⚙️" },
+  { name: "dns-114-academic", focus: "Academic projects / networking / systems / embedded", emoji: "📡" },
+  { name: "dns-114-research", focus: "Research / publications / TIPE", emoji: "🔬" },
+];
+
+const Tab = ({ label, active, onClick }) => (
+  <button
+    onClick={onClick}
+    style={{
+      padding: "8px 20px",
+      background: active ? "#E0182D" : "#1a1a1a",
+      color: active ? "white" : "#888",
+      border: "1px solid " + (active ? "#E0182D" : "#333"),
+      cursor: "pointer",
+      fontFamily: "monospace",
+      fontSize: 13,
+      transition: "all 0.2s",
+    }}
+  >
+    {label}
+  </button>
+);
+
+export default function App() {
+  const [tab, setTab] = useState(0);
+
+  return (
+    <div style={{ background: "#0d1117", minHeight: "100vh", padding: 32, fontFamily: "monospace", color: "#c9d1d9" }}>
+      <div style={{ maxWidth: 700, margin: "0 auto" }}>
+        <div style={{ marginBottom: 4, color: "#888", fontSize: 12 }}>APERÇU DU RENDU — choisir un style</div>
+        <div style={{ display: "flex", gap: 0, marginBottom: 32 }}>
+          {["Badges", "Cards HTML", "Tableau aéré"].map((l, i) => (
+            <Tab key={i} label={l} active={tab === i} onClick={() => setTab(i)} />
+          ))}
+        </div>
+
+        {/* Option 1 : Badges */}
+        {tab === 0 && (
+          <div>
+            <div style={{ color: "#888", fontSize: 11, marginBottom: 16 }}>## Organizations</div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
+              {orgs.map((o) => (
+                <div
+                  key={o.name}
+                  style={{
+                    background: "#E0182D",
+                    color: "white",
+                    padding: "7px 16px",
+                    fontSize: 13,
+                    fontWeight: "bold",
+                    borderRadius: 4,
+                    cursor: "pointer",
+                    letterSpacing: 0.5,
+                  }}
+                >
+                  {o.name}
+                </div>
+              ))}
+            </div>
+            <div style={{ marginTop: 16, color: "#555", fontSize: 11 }}>
+              → Compact, rapide à scanner. Pas de description visible directement.
+            </div>
+          </div>
+        )}
+
+        {/* Option 2 : Cards HTML */}
+        {tab === 1 && (
+          <div>
+            <div style={{ color: "#888", fontSize: 11, marginBottom: 16 }}>## Organizations</div>
+            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
+              {orgs.map((o) => (
+                <div
+                  key={o.name}
+                  style={{
+                    border: "1px solid #30363d",
+                    borderLeft: "3px solid #E0182D",
+                    background: "#161b22",
+                    padding: "14px 16px",
+                    cursor: "pointer",
+                  }}
+                >
+                  <div style={{ color: "#E0182D", fontWeight: "bold", fontSize: 13, marginBottom: 6 }}>
+                    {o.emoji} {o.name}
+                  </div>
+                  <div style={{ color: "#8b949e", fontSize: 11, lineHeight: 1.5 }}>{o.focus}</div>
+                </div>
+              ))}
+            </div>
+            <div style={{ marginTop: 16, color: "#555", fontSize: 11 }}>
+              → Description visible, visuellement riche. Le plus impactant pour un recruteur.
+            </div>
+          </div>
+        )}
+
+        {/* Option 3 : Tableau aéré */}
+        {tab === 2 && (
+          <div>
+            <div style={{ color: "#888", fontSize: 11, marginBottom: 16 }}>## Organizations</div>
+            <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 13 }}>
+              <thead>
+                <tr style={{ borderBottom: "1px solid #30363d" }}>
+                  <th style={{ textAlign: "left", padding: "8px 12px", color: "#888", fontWeight: "normal" }}>Organization</th>
+                  <th style={{ textAlign: "left", padding: "8px 12px", color: "#888", fontWeight: "normal" }}>Focus</th>
+                </tr>
+              </thead>
+              <tbody>
+                {orgs.map((o, i) => (
+                  <tr key={o.name} style={{ borderBottom: "1px solid #21262d", background: i % 2 === 0 ? "transparent" : "#161b22" }}>
+                    <td style={{ padding: "12px 12px", color: "#E0182D", fontWeight: "bold" }}>{o.name}</td>
+                    <td style={{ padding: "12px 12px", color: "#8b949e" }}>{o.focus}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+            <div style={{ marginTop: 16, color: "#555", fontSize: 11 }}>
+              → Similaire à l'actuel mais plus lisible. Changement minimal.
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
