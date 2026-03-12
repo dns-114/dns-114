@@ -79,13 +79,11 @@ $ env
 
 ---
 
-## Stats
+## Japan
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dns-114&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E0182D&text_color=ffffff&border_color=E0182D&hide_border=false&langs_count=8" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dns-114&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E0182D&text_color=ffffff&icon_color=E0182D&border_color=E0182D&hide_border=false&count_private=true&hide=stars" />
+<img src="https://raw.githubusercontent.com/dns-114/dns-114/main/japan.svg" width="420" alt="Japan map" />
 
 </div>
 
