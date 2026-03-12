@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700">
+  <rect width="600" height="700" fill="#0d0d0d" rx="12"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="350" x2="600" y2="350" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="700" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- Glow filter -->
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- HOKKAIDO -->
+  <path filter="url(#glow)" fill="#E0182D" fill-opacity="0.85" stroke="#ff4444" stroke-width="0.8"
+    d="M 310 60
+       C 295 55, 270 62, 258 75
+       C 245 88, 238 105, 242 120
+       C 246 135, 255 145, 268 150
+       C 280 155, 295 152, 308 145
+       C 325 136, 340 120, 348 105
+       C 356 90, 352 72, 340 65
+       Z"/>
+  <!-- Hokkaido eastern peninsula -->
+  <path filter="url(#glow)" fill="#E0182D" fill-opacity="0.85" stroke="#ff4444" stroke-width="0.8"
+    d="M 340 80 C 355 78, 375 85, 385 100 C 392 112, 388 128, 378 135 C 365 143, 350 138, 340 128 Z"/>
+
+  <!-- HONSHU - main island -->
+  <path filter="url(#glow)" fill="#c0121f" fill-opacity="0.9" stroke="#ff4444" stroke-width="0.8"
+    d="M 230 170
+       C 218 175, 205 185, 200 200
+       C 195 215, 198 232, 205 248
+       C 212 264, 224 278, 232 295
+       C 240 312, 242 332, 238 350
+       C 234 368, 222 384, 215 400
+       C 208 416, 207 432, 212 446
+       C 218 460, 228 470, 238 478
+       C 248 486, 260 490, 272 488
+       C 285 486, 298 478, 308 468
+       C 320 456, 328 440, 332 424
+       C 336 408, 334 390, 328 374
+       C 322 358, 310 344, 302 328
+       C 294 312, 292 294, 296 278
+       C 300 262, 310 248, 318 234
+       C 328 218, 336 202, 334 188
+       C 332 174, 318 166, 304 163
+       C 288 160, 244 164, 230 170
+       Z"/>
+  <!-- Kii peninsula -->
+  <path filter="url(#glow)" fill="#c0121f" fill-opacity="0.9" stroke="#ff4444" stroke-width="0.8"
+    d="M 268 390 C 260 400, 255 418, 260 432 C 265 445, 278 452, 290 448 C 302 444, 308 430, 306 416 C 304 402, 295 392, 282 388 Z"/>
+  <!-- Noto peninsula -->
+  <path filter="url(#glow)" fill="#c0121f" fill-opacity="0.9" stroke="#ff4444" stroke-width="0.8"
+    d="M 232 290 C 220 285, 210 290, 206 302 C 202 314, 208 326, 218 330 C 228 334, 238 328, 242 318 Z"/>
+
+  <!-- SHIKOKU -->
+  <path filter="url(#glow)" fill="#E0182D" fill-opacity="0.8" stroke="#ff4444" stroke-width="0.8"
+    d="M 248 488
+       C 238 492, 228 500, 225 512
+       C 222 524, 228 536, 238 542
+       C 248 548, 260 546, 270 540
+       C 282 532, 290 518, 290 505
+       C 290 492, 280 484, 268 482
+       Z"/>
+
+  <!-- KYUSHU -->
+  <path filter="url(#glow)" fill="#E0182D" fill-opacity="0.82" stroke="#ff4444" stroke-width="0.8"
+    d="M 198 448
+       C 185 452, 172 462, 168 476
+       C 164 490, 168 506, 178 518
+       C 188 530, 202 538, 216 538
+       C 230 538, 242 530, 248 518
+       C 254 506, 252 492, 244 480
+       C 236 468, 222 455, 210 450
+       Z"/>
+  <!-- Satsuma peninsula -->
+  <path filter="url(#glow)" fill="#E0182D" fill-opacity="0.82" stroke="#ff4444" stroke-width="0.8"
+    d="M 190 530 C 182 538, 180 550, 185 560 C 190 570, 200 574, 208 570 C 216 566, 218 554, 214 544 Z"/>
+
+  <!-- OKINAWA (small) -->
+  <ellipse filter="url(#glow)" cx="168" cy="630" rx="18" ry="8" fill="#E0182D" fill-opacity="0.7" stroke="#ff4444" stroke-width="0.6"/>
+  <ellipse filter="url(#glow)" cx="145" cy="648" rx="10" ry="5" fill="#E0182D" fill-opacity="0.6" stroke="#ff4444" stroke-width="0.5"/>
+
+  <!-- Ryukyu chain dots -->
+  <circle cx="188" cy="618" r="3" fill="#E0182D" opacity="0.6"/>
+  <circle cx="178" cy="622" r="2.5" fill="#E0182D" opacity="0.6"/>
+  <circle cx="168" cy="628" r="2" fill="#E0182D" opacity="0.5"/>
+  <circle cx="158" cy="636" r="2" fill="#E0182D" opacity="0.5"/>
+
+  <!-- Kuril dots (north-east) -->
+  <circle cx="395" cy="112" r="4" fill="#E0182D" opacity="0.5"/>
+  <circle cx="408" cy="125" r="3.5" fill="#E0182D" opacity="0.45"/>
+  <circle cx="420" cy="140" r="3" fill="#E0182D" opacity="0.4"/>
+
+  <!-- Label Japan -->
+  <text x="380" y="320" fill="#E0182D" font-size="13" font-family="monospace" opacity="0.6" letter-spacing="3">JAPAN</text>
+  <text x="380" y="338" fill="#444" font-size="10" font-family="monospace" opacity="0.8">日本</text>
+
+  <!-- Compass rose (simple) -->
+  <text x="548" y="48" fill="#333" font-size="11" font-family="monospace">N</text>
+  <line x1="554" y1="52" x2="554" y2="68" stroke="#333" stroke-width="1"/>
+  <polygon points="554,52 550,62 554,60 558,62" fill="#E0182D" opacity="0.7"/>
+
+  <!-- Border -->
+  <rect width="600" height="700" fill="none" stroke="#E0182D" stroke-width="1" rx="12" opacity="0.3"/>
+</svg>
