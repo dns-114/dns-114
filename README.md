@@ -76,9 +76,9 @@ $ env
 
 | 🔓 [**dns-114-ctf** →](https://github.com/dns-114-ctf) | ⚙️ [**dns-114-projects** →](https://github.com/dns-114-projects) |
 |:---:|:---:|
-| CTF · exploitation · cryptography | algorithms · systems · security |
+| CTF · exploitation · cryptography | algorithms · systems · reverse |
 | 📡 [**dns-114-academic** →](https://github.com/dns-114-academic) | 🔬 [**dns-114-research** →](https://github.com/dns-114-research) |
-| networking · embedded · systems | research · publications · TIPE |
+| security · embedded · systems | research · publications · experiments |
 
 </div>
 
