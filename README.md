@@ -8,24 +8,26 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ 
 ## About
-
+ 
 Cybersecurity & Software Engineering student at an **engineering school**, after a **classe preparatoire aux grandes ecoles (MPI)** -- advanced mathematics, theoretical CS, computability, complexity, formal logic.
-
+ 
 I work at the intersection of **systems programming** and **security** -- understanding how things break at the lowest level, and building them right.
-
+ 
 Currently studying: cryptography, network security, OS internals, x86 assembly, IoT embedded systems, and formal modelling.
-
----
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ 
 ## Skills
-
+ 
 <div align="center">
-
+ 
 [![My Skills](https://skillicons.dev/icons?i=c,python,ocaml,cpp,rust,bash,lua,git,linux,vim,docker&theme=dark)](https://skillicons.dev)
-
+ 
 </div>
-
+ 
 | Domain | Stack |
 |---|----|
 | **Languages** | C / Python / OCaml / C++ / x86 ASM / Shell / Lua / *(learning Rust)* |
@@ -33,74 +35,73 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 | **Systems** | OS internals / Proxmox / x86 arch / Logisim / ESP32 / LuaRTOS |
 | **Tools** | GCC / GDB / Make / Git / Wireshark / Cisco PT / mitmproxy / Flask |
 | **Math** | Number theory / Algorithmic complexity / Formal logic / Mathematical cryptography |
-
----
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ 
 ## Domains of Interest
-
+ 
 <div align="center">
-
-![Cryptography](https://img.shields.io/badge/Cryptography-E0182D?style=for-the-badge&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-c0392b?style=for-the-badge&logoColor=white)
-![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-922b21?style=for-the-badge&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-E0182D?style=for-the-badge&logoColor=white)
-![OS Internals](https://img.shields.io/badge/OS_Internals-c0392b?style=for-the-badge&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-922b21?style=for-the-badge&logoColor=white)
-![Formal Methods](https://img.shields.io/badge/Formal_Methods-E0182D?style=for-the-badge&logoColor=white)
-![x86 Architecture](https://img.shields.io/badge/x86_Architecture-c0392b?style=for-the-badge&logoColor=white)
-
+ 
+![Cryptography](https://img.shields.io/badge/Cryptography-B5152A?style=flat-square&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-1B5E35?style=flat-square&logoColor=white)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-8B1020?style=flat-square&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-B5152A?style=flat-square&logoColor=white)
+![OS Internals](https://img.shields.io/badge/OS_Internals-145029?style=flat-square&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-8B1020?style=flat-square&logoColor=white)
+![Formal Methods](https://img.shields.io/badge/Formal_Methods-B5152A?style=flat-square&logoColor=white)
+![x86 Architecture](https://img.shields.io/badge/x86_Architecture-1B5E35?style=flat-square&logoColor=white)
+ 
 </div>
-
----
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ 
 ## Approach
-
+ 
 ```
 $ whoami
   low-level thinker  |  security-first mindset  |  math-driven
-
+ 
 $ philosophy
   understand before using  |  break to learn  |  build from scratch
-
+ 
 $ env
   macOS  |  linux  |  terminal  |  vs code  |  gcc  |  C toolchain
 ```
-
----
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ 
 ## Organizations
-
+ 
 > 👇 Click on any organization to explore its repositories
-
+ 
 <div align="center">
-
+ 
 | 🔓 [**dns-114-ctf** →](https://github.com/dns-114-ctf) | ⚙️ [**dns-114-projects** →](https://github.com/dns-114-projects) |
 |:---:|:---:|
 | CTF · exploitation · cryptography | algorithms · systems · reverse |
 | 📡 [**dns-114-academic** →](https://github.com/dns-114-academic) | 🔬 [**dns-114-research** →](https://github.com/dns-114-research) |
 | security · embedded · systems | research · publications · experiments |
-
+ 
 </div>
-
----
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ 
 ## 🗺️ Maps
-
+ 
 <p align="center">
   <img src="assets/tokyo.png" width="32%"/>
   <img src="assets/paris.png" width="32%"/>
   <img src="assets/istanbul.png" width="32%"/>
 </p>
-
----
-
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ 
 <!-- STARS:START -->
-
+ 
 ## Toolbox
-
+ 
 > Repos I follow and use in my workflow.
-
+ 
 | Repository | Description | Stars |
 |---|---|---|
 | [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers | ⭐ 16,065 |
@@ -108,7 +109,7 @@ $ env
 | [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) | The Rogue Access Point Framework | ⭐ 14,507 |
 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powe... | ⭐ 27,545 |
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 65,928 |
-
+ 
 <!-- STARS:END -->
 
 ---
