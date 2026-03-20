@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
  
 ## About
