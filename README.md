@@ -100,3 +100,20 @@ $ env
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0182D,100:0d0d0d&height=100&section=footer" />
 
 </div>
+
+
+<!-- STARS:START -->
+
+## Toolbox
+
+> Repos I follow and use in my workflow.
+
+| Repository | Description | Stars |
+|---|---|---|
+| [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers | ⭐ 16,065 |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social... | ⭐ 73,922 |
+| [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) | The Rogue Access Point Framework | ⭐ 14,512 |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powe... | ⭐ 27,556 |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 65,971 |
+
+<!-- STARS:END -->
