@@ -102,7 +102,7 @@ $ env
 </div>
 
 
-<!-- STARS:START -->
+<!--
 
 ## Toolbox
 
@@ -116,4 +116,4 @@ $ env
 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powe... | ⭐ 27,563 |
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 66,008 |
 
-<!-- STARS:END -->
+-->
