@@ -127,10 +127,10 @@ $ env
 
 | Repository | Description | Stars |
 |---|---|---|
-| [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers | ⭐ 16,085 |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social... | ⭐ 73,986 |
-| [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) | The Rogue Access Point Framework | ⭐ 14,515 |
-| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powe... | ⭐ 27,573 |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 66,037 |
+| [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers | ⭐ 16,091 |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social... | ⭐ 74,014 |
+| [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) | The Rogue Access Point Framework | ⭐ 14,516 |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powe... | ⭐ 27,586 |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 66,078 |
 
 <!-- STARS:END -->
