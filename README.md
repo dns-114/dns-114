@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:E0182D&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:7C3AED,100:059669&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=E0182D&center=true&vCenter=true&width=520&lines=Cryptography+%26+Protocol+Analysis;Binary+Exploitation+%26+Reverse+Engineering;Systems+Programming+%26+OS+Internals;Network+Security+%26+Embedded+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=Cryptography+%26+Protocol+Analysis;Binary+Exploitation+%26+Reverse+Engineering;Systems+Programming+%26+OS+Internals;Network+Security+%26+Embedded+Systems)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
+
 ## About
  
 Cybersecurity & Software Engineering student at an **engineering school**, after a **classe preparatoire aux grandes ecoles (MPI)** -- advanced mathematics, theoretical CS, computability, complexity, formal logic.
@@ -16,7 +16,7 @@ I work at the intersection of **systems programming** and **security** -- unders
  
 Currently studying: cryptography, network security, OS internals, x86 assembly, IoT embedded systems, and formal modelling.
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
  
 ## Skills
  
@@ -34,8 +34,8 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
 | **Tools** | GCC / GDB / Make / Git / Wireshark / Cisco PT / mitmproxy / Flask |
 | **Math** | Number theory / Algorithmic complexity / Formal logic / Mathematical cryptography |
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
+
 ## Domains of Interest
  
 <div align="center">
@@ -51,8 +51,8 @@ Currently studying: cryptography, network security, OS internals, x86 assembly, 
  
 </div>
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
+
 ## Approach
  
 ```
@@ -66,8 +66,8 @@ $ env
   macOS  |  linux  |  terminal  |  vs code  |  gcc  |  C toolchain
 ```
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
+
 ## Organizations
  
 > 👇 Click on any organization to explore its repositories
@@ -82,8 +82,8 @@ $ env
  
 </div>
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
+
 ## 🗺️ Maps
  
 <p align="center">
@@ -92,12 +92,12 @@ $ env
   <img src="assets/istanbul.png" width="32%"/>
 </p>
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5152A,50:1B5E35,100:B5152A&height=2" />
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0182D,100:0d0d0d&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:7C3AED,100:059669&height=100&section=footer" />
 
 </div>
 
@@ -117,26 +117,3 @@ $ env
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 66,008 |
 
 -->
-
-
-
-<!-- STARS:START -->
-
-## Toolbox
-
-> Repos I follow and use in my workflow.
-
-| Repository | Description | Stars |
-|---|---|---|
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that resea... | ⭐ 63,792 |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained ti... | ⭐ 18,563 |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologi... | ⭐ 496,061 |
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Shannon Lite is an autonomous, white-box AI pentester for... | ⭐ 40,344 |
-| [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | Dynamic Island for macOS | ⭐ 1,832 |
-| [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers | ⭐ 16,305 |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social... | ⭐ 82,008 |
-| [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) | The Rogue Access Point Framework | ⭐ 14,553 |
-| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powe... | ⭐ 28,076 |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 67,691 |
-
-<!-- STARS:END -->
