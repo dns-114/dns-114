@@ -10,9 +10,9 @@
 
 ## About
  
-Cybersecurity & Software Engineering student at an **engineering school**, after a **classe preparatoire aux grandes ecoles (MPI)** -- advanced mathematics, theoretical CS, computability, complexity, formal logic.
+Cybersecurity & Software Engineering student at an **engineering school**, after a **classe preparatoire aux grandes ecoles (MPI)** —— advanced mathematics, theoretical CS, computability, complexity, formal logic.
  
-I work at the intersection of **systems programming** and **security** -- understanding how things break at the lowest level, and building them right.
+I work at the intersection of **systems programming** and **security** —— understanding how things break at the lowest level, and building them right.
  
 Currently studying: cryptography, network security, OS internals, x86 assembly, IoT embedded systems, and formal modelling.
  
