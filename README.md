@@ -8,6 +8,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
 
+## Organizations
+ 
+> 👇 Click on any organization to explore its repositories
+ 
+<div align="center">
+ 
+| 🔓 [**dns-114-ctf** →](https://github.com/dns-114-ctf) | ⚙️ [**dns-114-projects** →](https://github.com/dns-114-projects) |
+|:---:|:---:|
+| CTF · exploitation · cryptography | algorithms · systems · reverse |
+| 📡 [**dns-114-academic** →](https://github.com/dns-114-academic) | 🔬 [**dns-114-research** →](https://github.com/dns-114-research) |
+| security · embedded · systems | research · publications · experiments |
+ 
+</div>
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
+
+
+
 ## About
  
 Cybersecurity & Software Engineering student at an **engineering school**, after a **classe preparatoire aux grandes ecoles (MPI)** —— advanced mathematics, theoretical CS, computability, complexity, formal logic.
@@ -65,22 +83,6 @@ $ philosophy
 $ env
   macOS  |  linux  |  terminal  |  vs code  |  gcc  |  C toolchain
 ```
- 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
-
-## Organizations
- 
-> 👇 Click on any organization to explore its repositories
- 
-<div align="center">
- 
-| 🔓 [**dns-114-ctf** →](https://github.com/dns-114-ctf) | ⚙️ [**dns-114-projects** →](https://github.com/dns-114-projects) |
-|:---:|:---:|
-| CTF · exploitation · cryptography | algorithms · systems · reverse |
-| 📡 [**dns-114-academic** →](https://github.com/dns-114-academic) | 🔬 [**dns-114-research** →](https://github.com/dns-114-research) |
-| security · embedded · systems | research · publications · experiments |
- 
-</div>
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
 
