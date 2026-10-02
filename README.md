@@ -81,7 +81,7 @@ $ philosophy
   understand before using  |  break to learn  |  build from scratch
  
 $ env
-  macOS  |  linux  |  terminal  |  vs code  |  gcc  |  C toolchain
+  macOS  |  linux  |  terminal  |  zed  |  gcc  |  C toolchain
 ```
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:059669,100:7C3AED&height=2" />
